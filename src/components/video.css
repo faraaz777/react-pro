@@ -1,0 +1,36 @@
+.vid {
+  width: 130px;
+  height: 90px;
+}
+.color.darkMode{
+  color: darkgray;
+}
+.title {
+  
+  font-size: small;
+}
+.chanelName {
+  font-size: small;
+}
+.views {
+  font-size: xx-small;
+  display: inline-block;
+}
+.pre {
+  display: inline-block;
+}
+.time {
+  font-size: xx-small;
+  display: inline-block;
+}
+
+.vidcompnt{
+margin: 10px;
+}
+.close {
+  position: absolute;
+}
+.edit{
+  position: absolute;
+  margin-left: 7em;
+}

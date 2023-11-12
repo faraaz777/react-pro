@@ -1,0 +1,10 @@
+.btn.darkMode{
+background-color: black;
+color: white;
+border-radius: 3px;
+}
+.btn.lightMode{
+background-color: #ccc;
+color: black;
+border-radius: 3px;
+}
